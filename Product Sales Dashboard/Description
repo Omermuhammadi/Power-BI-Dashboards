@@ -1,0 +1,22 @@
+Product Analytics Dashboard
+This is  Data Analysis Project where I used  SQL Server, and Power BI to create a dashboard that tracks product revenue, profits, and trends.
+
+What I Did:
+Built a Database: Designed and stored the data in SQL Server.
+Developed SQL Queries
+Connected to Power BI
+Created a Dashboard
+
+
+Insights From the Dashboard:
+
+Top Countries by Revenue: The United States, Germany, and France are the highest contributors to revenue.
+
+Performance Trends: Revenue and sales have grown steadily over the year
+
+Customer Segments: Government accounts generate the highest revenue. Small businesses contribute significantly but with lower profits.
+
+Discount Strategy: Most revenue comes from high-discount products, showing that discounts drive sales.
+
+Product Insights: The Arctis 7P+ is one of the top-performing products.
+
