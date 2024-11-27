@@ -1,0 +1,28 @@
+#Overview
+
+This HR Attrition Dashboard shows why employees leave their jobs. It analyzes age, salary, education, roles, and job satisfaction across departments.
+
+#Insights
+
+Research & Development:
+	1.	Attrition rate is 13.8% (lowest).
+	2.	Most leavers are aged 26–35.
+	3.	Life Sciences employees leave the most.
+	4.	Laboratory Technicians have the highest attrition.
+	5.	Low salaries (below 5K) drive most attrition.
+	6.	Employees leave mainly within the first 5 years.
+
+Sales:
+	1.	Highest attrition rate (20.6%).
+	2.	Most leavers are aged 26–35.
+	3.	Marketing graduates leave the most.
+	4.	Sales Executives are most affected.
+	5.	Many employees leave despite better salaries (5K–10K).
+	6.	Low job satisfaction (1 or 2 ratings) is a key factor.
+
+Human Resources:
+	1.	Attrition rate is 19%.
+	2.	Most leavers are aged 26–35.
+	3.	HR graduates make up 58% of attrition.
+	4.	Almost all leavers earn under 5K.
+	5.	Attrition drops sharply after 5 years of work.
